@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="30" fill="#07131b"/>
+<g transform="translate(465 75) rotate(7)"><rect width="250" height="150" rx="25" fill="#ffe600"/><text x="125" y="88" text-anchor="middle" font-family="Arial" font-weight="900" font-size="34">noon</text></g>
+<g transform="translate(395 190) rotate(-8)"><rect width="250" height="150" rx="25" fill="#111d31" stroke="#00f5a0" stroke-width="4"/><text x="125" y="88" text-anchor="middle" font-family="Arial" font-weight="900" font-size="30" fill="#fff">GIFT CARD</text></g>
+<text x="55" y="160" fill="#fff" font-family="Arial" font-size="38" font-weight="800">بطاقات رقمية</text>
+<text x="55" y="215" fill="#00f5a0" font-family="Arial" font-size="46" font-weight="900">بعروض حصرية</text>
+<text x="55" y="260" fill="#a9b8c8" font-family="Arial" font-size="22">اختر بطاقتك واستفد من أحدث العروض</text>
+</svg>

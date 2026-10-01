@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="30" fill="#07131b"/>
+<circle cx="600" cy="220" r="220" fill="#00f5a0" opacity=".12"/>
+<g transform="translate(470 45) rotate(11)">
+<rect width="150" height="300" rx="32" fill="#171c27" stroke="#00f5a0" stroke-width="4"/>
+<rect x="12" y="14" width="126" height="272" rx="25" fill="#273142"/>
+<circle cx="43" cy="47" r="17" fill="#0b1119"/><circle cx="77" cy="47" r="17" fill="#0b1119"/>
+</g>
+<text x="55" y="170" fill="#fff" font-family="Arial" font-size="38" font-weight="800">أحدث أجهزة</text>
+<text x="55" y="220" fill="#00f5a0" font-family="Arial" font-size="48" font-weight="900">iPhone</text>
+<text x="55" y="265" fill="#a9b8c8" font-family="Arial" font-size="22">عروض رقمية وأسعار مميزة</text>
+</svg>
